@@ -1,0 +1,93 @@
+[
+    {
+      "id": 1,
+      "nombre": "Samsung Galaxy A34",
+      "imagen": "https://http2.mlstatic.com/D_NQ_NP_680639-MLA54691106460_032023-O.webp"
+    },
+    {
+      "id": 2,
+      "nombre": "Samsung Galaxy S23 Fe",
+      "imagen": "https://http2.mlstatic.com/D_NQ_NP_810487-MLU73139024141_112023-O.webp"
+    },
+    {
+      "id": 3,
+      "nombre": "Samsung Galaxy A54",
+      "imagen": "https://http2.mlstatic.com/D_NQ_NP_732057-MLA70868353813_082023-O.webp"
+    },
+    {
+      "id": 4,
+      "nombre": "Smart Tv Philco",
+      "imagen": "https://http2.mlstatic.com/D_NQ_NP_994210-MLA52431107725_112022-O.webp"
+    },
+    {
+      "id": 5,
+      "nombre": "Smart Tv Kanji Led",
+      "imagen": "https://http2.mlstatic.com/D_NQ_NP_766541-MLU74390599045_022024-O.webp"
+    },
+    {
+      "id": 6,
+      "nombre": "Smart Tv LG",
+      "imagen": "https://http2.mlstatic.com/D_NQ_NP_977469-MLA53097256738_122022-O.webp"
+    },
+    {
+      "id": 7,
+      "nombre": "Smartwatch Motorola",
+      "imagen": "https://http2.mlstatic.com/D_NQ_NP_821525-MLU72831732339_112023-O.webp"
+    },
+    {
+      "id": 8,
+      "nombre": "Xiaomi Smart Band",
+      "imagen": "https://http2.mlstatic.com/D_NQ_NP_848234-MLU73783780464_012024-O.webp"
+    },
+    {
+      "id": 9,
+      "nombre": "Smartwatch X-time",
+      "imagen": "https://http2.mlstatic.com/D_NQ_NP_808207-MLU74159469763_012024-O.webp"
+    },
+    {
+      "id": 10,
+      "nombre": "Auriculares inalámbricos HyperX",
+      "imagen": "https://http2.mlstatic.com/D_NQ_NP_871884-MLU72597569891_102023-O.webp"
+    },
+    {
+      "id": 11,
+      "nombre": "Auriculares Redragon",
+      "imagen": "https://http2.mlstatic.com/D_NQ_NP_638468-MLU72831145575_112023-O.webp"
+    },
+    {
+      "id": 12,
+      "nombre": "Jbl Quantum",
+      "imagen": "https://http2.mlstatic.com/D_NQ_NP_729799-MLU74859769316_032024-O.webp"
+    },
+    {
+      "id": 13,
+      "nombre": "Torre De Sonido Noblex",
+      "imagen": "https://http2.mlstatic.com/D_NQ_NP_676248-MLU75258491622_032024-O.webp"
+    },
+    {
+      "id": 14,
+      "nombre": "Parlante Spica",
+      "imagen": "https://http2.mlstatic.com/D_NQ_NP_816810-MLU72700970573_112023-O.webp"
+    },
+    {
+      "id": 15,
+      "nombre": "Parlante Portatil Jbl",
+      "imagen": "https://http2.mlstatic.com/D_NQ_NP_752940-MLU73602356408_122023-O.webp"
+    },
+    {
+      "id": 16,
+      "nombre": "Monitor Daewoo",
+      "imagen": "https://http2.mlstatic.com/D_NQ_NP_618227-MLU72582892920_112023-O.webp"
+    },
+    {
+      "id": 17,
+      "nombre": "Monitor gamer Gigabyte",
+      "imagen": "https://http2.mlstatic.com/D_NQ_NP_726649-MLU74536802625_022024-O.webp"
+    },
+    {
+      "id": 18,
+      "nombre": "Monitor Led Samsung",
+      "imagen": "https://http2.mlstatic.com/D_NQ_NP_843829-MLU72646996287_112023-O.webp"
+    }
+  ]
+  

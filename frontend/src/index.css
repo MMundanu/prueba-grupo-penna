@@ -1,0 +1,134 @@
+
+.root{
+width: 100%;
+padding: 0;
+}
+body{
+  width: 100%;
+  background-color: gray;
+
+}
+
+.header{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  border-bottom: solid 1px;
+  height: 70px;
+  background-color: white;
+  font-size: large;
+}
+
+.header span:hover{
+  color: gray;
+  cursor: pointer;
+}
+
+.card{
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  background-color: white;
+  border: solid 1px;
+  height: 450px;
+  width: 320px;
+  gap: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  align-items: center;
+  justify-content: center;
+  position: relative
+
+}
+
+.conteiner-img{
+  overflow: hidden;
+}
+
+.conteiner-img img{
+  height: 100%;
+  width: 100%;
+  object-fit: contain;
+}
+.cart-icon{
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 25px;
+  height: 25px;
+  text-align: center;
+  justify-items: center;
+  cursor: pointer;
+}
+ .cart-icon span:hover{
+  color: gray;
+}
+.items{
+  position: absolute;
+  width: 25px;
+  height: 25px;
+  top: 0;
+  background-color: red;
+  border-radius: 100%;
+  text-align: center;
+  justify-items: center;
+  padding: auto;
+  color: white;
+}
+.delete{
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 25px;
+  height: 25px;
+  text-align: center;
+  justify-items: center;
+  cursor: pointer;
+}
+
+.conteiner-cards{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
+  justify-content: space-around;
+}
+
+.navigate-button{
+  border: none;
+  cursor: pointer;
+  background-color: white;
+
+}
+.navigate-button:hover{
+  border-bottom: solid 1px;
+}
+.navigate{
+  width: 115px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: white;
+  border-radius: 20px;
+  padding: 10px;
+
+}
+.navigate span{
+  padding: auto;
+  border: none;
+  text-align: center;
+
+}
+
+.page{
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  align-items: center;
+}
+
+.start{
+  padding: 15px;
+  cursor: pointer;
+  border: none;
+  border-radius: 5%;
+}
